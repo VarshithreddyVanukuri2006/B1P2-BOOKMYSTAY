@@ -11,8 +11,7 @@
  * Room pricing and characteristics are obtained
  * from Room objects — not duplicated here.
  *
- * @version 3.1
- */
+ * @version
 import java.util.HashMap;
 import java.util.Map;
 
